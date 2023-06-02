@@ -1,13 +1,13 @@
-# Django ORM Web Application
+## Django ORM Web Application
 
-## AIM
+### AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
+### Entity Relationship Diagram
 
 ![Entity Relationship Diagram](img/studentout.jpg)
 
-## DESIGN STEPS
+### DESIGN STEPS
 
 ### STEP 1:
 
@@ -25,7 +25,7 @@ Enter the code for admin.py and models.py
 
 Execute Django admin and create five student
 
-## PROGRAM
+### PROGRAM
 
  ```python
 models.py
@@ -56,15 +56,15 @@ admin.site.register(Student,StudentAdmin)
 
 ```
 
-## OUTPUT
+### OUTPUT
 
 ![OUTPUT](./studentout.png)
 
-## PRIMARY OUTPUT
+### PRIMARY OUTPUT
 
 ![OUTPUT](./primaryout1.jpg)
 
 
-## RESULT
+### RESULT
 
 Program executed Successfully
